@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 streamlit
 =======
 # Required core packages
@@ -7,7 +7,7 @@ pandas==1.5.3
 numpy>=1.24.0
 matplotlib==3.7.1
 seaborn==0.12.2
-<<<<<<< HEAD
+
 altair
 plotly==5.14.1
 openpyxl==3.1.2
