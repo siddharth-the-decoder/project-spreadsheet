@@ -2,7 +2,7 @@
 streamlit
 =======
 # Required core packages
->>>>>>> 7334bd86308013730d7cd72c1a258fef987af7c6
+
 pandas==1.5.3
 numpy>=1.24.0
 matplotlib==3.7.1
